@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Mar  2 21:46:27 2019
-
-@author: PRATYUSH, Rahul, Somya, Abhay
-"""
-
 from flask import Flask, render_template
 from flask_cors import CORS, cross_origin
 import numpy as np
@@ -12,8 +5,6 @@ import pandas as pd
 from datetime import datetime
 import crops
 import random
-
-# import matplotlib.pyplot as plt
 
 app = Flask(__name__)
 app.config['CORS_HEADERS'] = 'Content-Type'
