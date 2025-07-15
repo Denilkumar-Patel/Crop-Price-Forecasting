@@ -35,5 +35,5 @@ $ python app.py
 [![ApnaAnaaj](https://github.com/rahuldkjain/Crop_Prediction/blob/master/static/Screenshot%20(26).png)](https://github.com/rahuldkjain/Crop_Prediction)
 [![ApnaAnaaj](https://github.com/rahuldkjain/Crop_Prediction/blob/master/static/Screenshot%20(27).png)](https://github.com/rahuldkjain/Crop_Prediction)
 
-## Designed & Developed with :sparkling_heart: by
+## Designed & Developed by
 * Denilkumar Patel
